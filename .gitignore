@@ -1,0 +1,4 @@
+# Binaries (comment out if you want to commit the prebuilt .exe directly, or attach it to GitHub Releases)
+*.pdb
+*.obj
+.vs/
